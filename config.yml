@@ -1,0 +1,120 @@
+#      ___       _ __   __
+#     / _ )__ __(_) /__/ /
+#    / _  / // / / / _  /
+#   /____/\_,_/_/_/\_,_/
+#
+title                     : "Sign o' the Times"
+baseURL                   : 'https://moritz.sauer.io/'
+languageCode              : de-DE
+defaultContentLanguage    : de
+theme                     : sign-o-the-times
+copyright                 : Alle Rechte vorbehalten
+disableHugoGeneratorInject: true
+canonifyURLs              : true
+metadataformat            : yaml
+paginate                  : 7
+paginatepath              : seite
+summarylength             : 70
+enableRobotsTXT           : true
+
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: true
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: true
+
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
+
+
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+imaging:
+  resampleFilter: box
+quality: 80             # Default JPEG quality setting. Default is 75.
+author:
+  name: Moritz mo. Sauer
+  publisher: Phlow
+permalinks:
+  pages: '/:filename/'
+taxonomies:
+  tag: tags
+  category: categories
+
+params:
+  slogan: 'Digitales Leben, Digitale Zeiten'
+  description: ''
+  adsensePublisher: ''
+  googleAnalytics: 
+  # Wichtig für SCHEMA.ORG
+  publisher:
+    name: Phlow
+    logo:
+      url: /assets/img/amp-logo-schema-small-150-60.png
+      width: 150
+      height: 60
+  # Wichtig für SCHEMA.ORG
+  # https://developers.google.com/search/docs/data-types/article#logo-guidelines
+  # The logo should fit in a 60x600px rectangle, and either be exactly 60px high (preferred), or exactly 600px wide. 
+  logo:
+    url: /assets/img/amp-logo-schema-small-150-60.png
+    width: 150
+    height: 60
+  # Wichtig für SCHEMA.ORG
+  image:
+    # The URL to an image that is representative of the article or AMP story.
+    # Images should be at least 1200 pixels wide.
+    # For best results, provide multiple high-resolution images (minimum of 800,000 pixels when multiplying width and height) with the following aspect ratios: 16x9, 4x3, and 1x1.
+    url: /assets/img/amp-banner-homepage-1600x900.jpg
+    width: 1600
+    height: 900
+  socialmedia:
+    youtube: 
+    twitter: 
+    instagram: 
+    facebook: 
+    github: 
+    # soundcloud: phlow
+    # rss: # Full URL needed
+  # SEO
+  SiteVerification:
+    Google: 
+    Bing: 
+
+
+# pygmentscodefences = false
+# pygmentscodefencesguesssyntax = false
+# pygmentsoptions = ""
+# pygmentsstyle = "monokai"
+# pygmentsuseclasses = false
+# pygmentsuseclassic = false
