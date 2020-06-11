@@ -3,7 +3,7 @@
 #    / _  / // / / / _  /
 #   /____/\_,_/_/_/\_,_/
 #
-title                     : "Sign o' the Times"
+title                     : 'Moritz »mo.« Sauer – Dozent, Webdesigner und Autor'
 baseURL                   : 'https://moritz.sauer.io/'
 languageCode              : de-DE
 defaultContentLanguage    : de
@@ -73,7 +73,7 @@ taxonomies:
 
 params:
   slogan: 'Digitales Leben, Digitale Zeiten'
-  description: ''
+  description: 'Moritz »mo.« Sauer arbeitet als Experte für Kunden und Institutionen in den Bereichen Journalismus, WordPress, Marketing, Social Media und Webdesign.'
   adsensePublisher: ''
   googleAnalytics: 
   # Wichtig für SCHEMA.ORG
@@ -108,7 +108,7 @@ params:
     # rss: # Full URL needed
   # SEO
   SiteVerification:
-    Google: 
+    Google: 6piOPlSVFOatygPZVoxrwnC592hTjB72IUIKgLoHueI
     Bing: 
 
 
