@@ -1,7 +1,7 @@
 ---
 title               : 'Zoom-Meeting schützen – Einstellungen für die Privatssphäre'
 date                : 2020-04-17T10:58:34+02:00
-tags                :
+schlagwort         :
     - zoom
     - videokonferenz
     - privatssphäre

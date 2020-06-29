@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</title>
+    <link>https://moritz.sauer.io/schlagwort/html/</link>
+    <description>Recent content in html on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Alle Rechte vorbehalten</copyright>
+    <lastBuildDate>Tue, 03 Jun 2008 13:30:02 +0200</lastBuildDate>
+    
+	<atom:link href="https://moritz.sauer.io/schlagwort/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML-Typographie – Alle HTML5-Elemente testen</title>
+      <link>https://moritz.sauer.io/schreibt/2008-06-03-html-typografie-test/</link>
+      <pubDate>Tue, 03 Jun 2008 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2008-06-03-html-typografie-test/</guid>
+      <description>Das ist der Anreisser mit &amp;lt;p&amp;gt; und der Klasse .teaser. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Inhaltsverzeichnis  HTML-Überschriften &amp;lt;a&amp;gt; – Links Listen &amp;lt;strong&amp;gt; – Starke Betonung &amp;lt;em&amp;gt; - Betonung &amp;lt;pre&amp;gt; Und so sehen Code-Beispiele aus &amp;lt;code&amp;gt; – Code per Inline-Element anzeigen. &amp;lt;blockquote&amp;gt; Zitat &amp;lt;cite&amp;gt; – Zitate als Inline-Elemente.</description>
+    </item>
+    
+  </channel>
+</rss>

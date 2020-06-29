@@ -1,14 +1,12 @@
 ---
 date                : 2018-11-23
-subtitle            : Digitaler Musikvertrieb
-title               : Alle sollen meine Musik hören
-category           : marketing
-tags:
+title               : 'Digitaler Musikvertrieb: Alle sollen meine Musik hören'
+schlagwort         :
   - musik
   - marketing
   - workshop
 ---
-Alle sollen meine Musik hören! In diesem Beitrag zum *Create Music Workshop*, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes, Amazon & Co verbreitest.
+Alle sollen meine Musik hören! In diesem Beitrag zum *Create Music Workshop*, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes oder Amazon  verbreitest…
 <!--more-->
 
 {{< toc >}}
@@ -94,13 +92,13 @@ Unter [artists.spotify.com](https://artists.spotify.com/) erfährst Du alles üb
 
 ### Hol das maximale aus Spotify-Biografie heraus
  
-Du hast 1.500 Zeichen, um Deinen Fans auf Spotify mitzuteilen, wer Du bist, und Du kannst @tags verwenden, um Links zu anderen Spotify-Inhalten wie Alben, die Dich inspiriert haben, Künstlern, mit denen Du zusammengearbeitest hast, oder Wiedergabelisten, auf denen Du zu finden bist, zu verlinken. Du kannst auch Spotify-Links in das Textfeld einfügen und einen Link zu deiner Wikipedia-Seite hinzufügen, für Fans, die tiefer graben wollen.
+Du hast 1.500 Zeichen, um Deinen Fans auf Spotify mitzuteilen, wer Du bist. In Deiner Spotify-Biografie kannst Du @tags verwenden, um Links auf andere Spotify-Inhalte wie Alben, Künstler oder Wiedergabelisten zu setzen. Spotify-Links kannst Du auch in das Textfeld einfügen und einen Link zu deiner Wikipedia-Seite hinzufügen, für Fans, die tiefer graben wollen.
 
 ### Bandcamp – Eigenvertrieb, Microsite und Musikstreaming
 
-<img src="/img/schreibt/bandcamp.jpg" alt="Bandcamp – Eigenvertrieb, Microsite und Musikstreaming">
-
 Bandcamp bietet Dir als Musikdienst eine Plattform für Promotion, Musikstreaming, Verkauf Deiner Musik sowie eigenem Merchandise, wie Vinyl, Kassetten, T-Shirts und so weiter. Dafür richtet Bandcamp unabhängigen Künstlern eine kleine Website ein. Deine veränderbare Microsite bestückst Du mit Alben und bestimmst dabei selbst den Preis. Du kannst Deine Musik auch verschenken bzw. die Zuhörer bestimmen lassen, wieviel sie für deine Musik bezahlen wollen.
+
+<img src="/img/schreibt/bandcamp.jpg" alt="Bandcamp – Eigenvertrieb, Microsite und Musikstreaming">
 
 Bandcamp nimmt einen Anteil von 15 % von Deinen Verkäufen auf der Website, wobei der Anteil nach der Einnahme von mehr als 5.000 US-Dollar durch Verkäufe auf 10 % sinkt. Der gesamte Musikservice von Bandcamp ist kostenlos. Bandcamp sorgt aber nicht dafür, Deine Musik auf andere Websites zu verteilen.
 

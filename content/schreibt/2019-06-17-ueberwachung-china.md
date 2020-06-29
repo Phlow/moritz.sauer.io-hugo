@@ -1,10 +1,9 @@
 ---
-subtitle            : 'Überwachung'
 title               : 'China: So funktioniert Überwachung und Digitalisierung'
 date                : 2019-06-17T10:40:46+02:00
 slug                : /china-ueberwachung/
 category            : webdesign
-tags                :
+schlagwort         :
     - überwachung
     - social media
 ---

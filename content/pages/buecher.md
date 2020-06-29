@@ -8,7 +8,7 @@ image:
   title_width     : 2398
   title_height    : 1795
 ---
-Mittlerweile habe ich gemeinsam mit dem O'Reilly Verlag sieben Sachbücher herausgegeben. Mein <em>Bestseller</em> »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.
+Mittlerweile habe ich gemeinsam mit dem O’Reilly Verlag sieben Sachbücher herausgegeben. Mein <em>Bestseller</em> »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.
 <!--more-->
 
 {{< toc >}}

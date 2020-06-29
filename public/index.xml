@@ -7,20 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 13:30:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 21:36:52 +0200</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>.htaccess – Verschiedene Snippets</title>
-      <link>https://moritz.sauer.io/schreibt/2020-06-05-htaccess/</link>
-      <pubDate>Fri, 05 Jun 2020 13:30:02 +0200</pubDate>
+      <title>Lieblingsspiele – Richtig gute iPad Spiele</title>
+      <link>https://moritz.sauer.io/schreibt/2020-06-23-ipad-spiele/</link>
+      <pubDate>Tue, 23 Jun 2020 21:36:52 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/schreibt/2020-06-05-htaccess/</guid>
-      <description>Mit der .htaccess-Datei steuerst Du das Verhalten des Servers, der Deine Webseiten ausliefert. Dazu gehören passwortgeschützte Websites, direkte Umleitungen von URLs oder auch die Kompression der Auslieferung via gzip.
+      <guid>https://moritz.sauer.io/schreibt/2020-06-23-ipad-spiele/</guid>
+      <description>Seit Jahren spiele ich mit meinen Kindern oder alleine auf dem iPad Spiele. Wenige Spiele begeisterten uns über die Jahre. Aber die folgenden sind unsere absoluten Favoriten.
+Eines vorweg: Spiele sind Geschmacksache. Ich mag rundenbasierte Strategiespiele, ästhetische Puzzlespiele und Adventure-Spiele mit einer dichten Atmosphäre. Besonders wichtig ist mir eine unkomplizierte Steuerung. Und wenn dann noch das Sound-Design liebevoll und edel klingt, dann bin ich hin und weg. Meine Lieblingsspiele auf dem iPad…</description>
+    </item>
+    
+    <item>
+      <title>Hugo: Markdown Render Hooks &#43; webp = Noch schnellere Websites</title>
+      <link>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</link>
+      <pubDate>Thu, 18 Jun 2020 15:25:03 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</guid>
+      <description>Mit Hugo Markdown Render Hooks generiert man aus einfachem Markdown inviduelles HTML. Das ermöglicht den Einsatz von webp-Bildern plus &amp;lt;picture&amp;gt;.
+Meine Websites Phlow.de und moritz.sauer.io baue ich mit Hugo . Die Beiträge verfasse ich in Markdown und seit Längerem wollte ich die Website beschleunigen, indem ich webp-Bilder nutze. Und dafür gibt es jetzt eine einfache Lösung.
 Inhaltsverzeichnis
- https forcieren gzip-Komprimierung aktivieren    Warnung: Sollten die folgenden Code-Schnippsel nicht funktionieren, hat das sicherlich etwas mit den Server-Einstellungen Deines Anbieters zu tun. Die Code-Schnippsel funktionieren bei meinem Anbieter HostEurope. Wenn etwas nicht funktioniert, bitte nicht mich kontaktieren, sondern den Support Deines Anbieters.</description>
+ webp-Bilder aus JPG und PNG-Bildern generieren Vergleich komprimierter Bilder mit jpg, guetzli-jpg und webp  Original JPG-Bild JPG mit guetzli Qualität 85 optimiert Bild mit webp und Qualität 80 optimiert   Hugo Markdown Render Hooks übernehmen die Arbeit substr ersetzt die jpg-Endung mit wepb    Das webp-Format verkleinert Bilder in der Dateigröße besser als JPG.</description>
     </item>
     
     <item>
@@ -32,15 +43,6 @@ Inhaltsverzeichnis
       <description>Grid Mit der CSS-Eigenschaft grid baust Du Dir schnell äußerst flexible Raster für Deine Website. grid besitzt die Komplexität, die sich Webdesigner immer gewünscht haben.
   Eltern-Element Um das Raster aufzuziehen, brauchst Du einen Container, der als Eltern-Element dient und das Layout-Modell ins Leben ruft. Das geschieht mit display: grid;. Mit grid-template-columns bestimmst Du anschließend die Anzahl der Spalten/columns, die grid aufbauen soll.
 Im unteren Beispiel baut das Raster drei Spalten auf.</description>
-    </item>
-    
-    <item>
-      <title>HTML-Typographie – Alle HTML5-Elemente teste</title>
-      <link>https://moritz.sauer.io/schreibt/2020-06-03-html-typografie-test/</link>
-      <pubDate>Wed, 03 Jun 2020 13:30:02 +0200</pubDate>
-      
-      <guid>https://moritz.sauer.io/schreibt/2020-06-03-html-typografie-test/</guid>
-      <description>Das ist der Anreisser mit &amp;lt;p&amp;gt; und der Klasse .teaser. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Inhaltsverzeichnis  HTML-Überschriften &amp;lt;a&amp;gt; – Links Listen &amp;lt;strong&amp;gt; – Starke Betonung &amp;lt;em&amp;gt; - Betonung &amp;lt;pre&amp;gt; Und so sehen Code-Beispiele aus &amp;lt;code&amp;gt; – Code per Inline-Element anzeigen. &amp;lt;blockquote&amp;gt; Zitat &amp;lt;cite&amp;gt; – Zitate als Inline-Elemente.</description>
     </item>
     
     <item>
@@ -70,29 +72,18 @@ Insgesamt ein lohnender Ausflug, um mal abzuschalten.</description>
       <pubDate>Mon, 01 Jun 2020 14:39:29 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/info/</guid>
-      <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung. Für die Kommunikation dient die Kontaktseite.</description>
+      <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung . Für die Kommunikation dient die Kontaktseite .</description>
     </item>
     
     <item>
-      <title>Hugo – If-Abfragen</title>
-      <link>https://moritz.sauer.io/schreibt/2020-06-01-hugo-if/</link>
-      <pubDate>Fri, 01 May 2020 22:39:29 +0200</pubDate>
-      
-      <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-if/</guid>
-      <description>Bei meiner Webdesign-Arbeit mit dem Website Generator Hugo stolpere ich immer wieder über die Konstruktion von if- oder where-Abfragen. Darum sammel ich an dieser Stelle Beispiele und Varianten.
-Inhaltsverzeichnis
- Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann…    Wenn in .Section, dann… {{ if (eq .Section &amp;quot;pages&amp;quot;) }} &amp;lt;!-- wenn in Section pages --&amp;gt; {{ end }} Wenn Parameter 1 oder 2 vorhanden ist, dann… {{ if or .</description>
-    </item>
-    
-    <item>
-      <title>Hugo – Range-Schleifen</title>
-      <link>https://moritz.sauer.io/schreibt/2020-06-01-hugo-range/</link>
+      <title>Hugo Website Generator – Hilfreiche Code-Snippets</title>
+      <link>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</link>
       <pubDate>Fri, 01 May 2020 14:39:29 +0200</pubDate>
       
-      <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-range/</guid>
-      <description>Bei meiner Webdesign-Arbeit mit dem Website Generator Hugo stolpere ich immer wieder über die Syntax von range-Schleifen. Hier eine Liste verschiedener Varianten, um Beiträge auszugeben.
+      <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</guid>
+      <description>Hugo ist ein Static Website Generator , der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io . An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.
 Inhaltsverzeichnis
- Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data    Eine Section mit Index-Seite ausgeben {{ range where .Site.Pages &amp;quot;Section&amp;quot; &amp;quot;blog&amp;quot; }} &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{.Permalink}}&amp;quot;&amp;gt;{{.Title}}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; {{ end }} Eine Section ohne Index-Seite ausgeben {{ range where .</description>
+ Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes Hugo Standard-Variablen  Eigene Variablen erstellen Globale Variablen erstellen   if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann… Wenn Schlagwort, dann bitte nur das erste ausgeben   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
     </item>
     
     <item>
@@ -106,15 +97,6 @@ Inhaltsverzeichnis
     </item>
     
     <item>
-      <title>Facebook Libra</title>
-      <link>https://moritz.sauer.io/schreibt/facebook-libra/</link>
-      <pubDate>Mon, 24 Jun 2019 13:58:34 +0200</pubDate>
-      
-      <guid>https://moritz.sauer.io/schreibt/facebook-libra/</guid>
-      <description>&lt;p&gt;Facebook strickt an einer eigenen Währung und holt gerade Banken und größere Firmen an Bord. Warum macht Facebook das?!?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>China: So funktioniert Überwachung und Digitalisierung</title>
       <link>https://moritz.sauer.io/schreibt/china-ueberwachung/</link>
       <pubDate>Mon, 17 Jun 2019 10:40:46 +0200</pubDate>
@@ -122,7 +104,18 @@ Inhaltsverzeichnis
       <guid>https://moritz.sauer.io/schreibt/china-ueberwachung/</guid>
       <description>Wenn Kinder in eine Grundschule in Shenzhen (Video) gehen, laufen Sie erst einmal an der Gesichtserkennung vorbei, um in die Schule zu kommen.
 Ein größerer Baustein in der Überwachung ist die »Social Media-Plattform« WeChat. WeChat dient als Plattform für soziale Interaktionen, ist eine Form von Währung, eine Dating-App, ein Werkzeug für Sportmannschaften und ein Nachrichtenlieferant…
-WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wichtig WeChat im Alltag eines Chinesen ist und was passiert, wenn man ausgeschlossen wird, liest Du im BBC-Artikel »China social media: WeChat and the Surveillance State«</description>
+WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wichtig WeChat im Alltag eines Chinesen ist und was passiert, wenn man ausgeschlossen wird, liest Du im BBC-Artikel »China social media: WeChat and the Surveillance State« </description>
+    </item>
+    
+    <item>
+      <title>.htaccess – Verschiedene Snippets</title>
+      <link>https://moritz.sauer.io/schreibt/2019-06-05-htaccess/</link>
+      <pubDate>Wed, 05 Jun 2019 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2019-06-05-htaccess/</guid>
+      <description>Mit der .htaccess-Datei steuerst Du das Verhalten des Servers, der Deine Webseiten ausliefert. Dazu gehören passwortgeschützte Websites, direkte Umleitungen von URLs oder auch die Kompression der Auslieferung via gzip.
+Inhaltsverzeichnis
+ https forcieren gzip-Komprimierung aktivieren    Warnung: Sollten die folgenden Code-Schnippsel nicht funktionieren, hat das sicherlich etwas mit den Server-Einstellungen Deines Anbieters zu tun. Die Code-Schnippsel funktionieren bei meinem Anbieter HostEurope. Wenn etwas nicht funktioniert, bitte nicht mich kontaktieren, sondern den Support Deines Anbieters.</description>
     </item>
     
     <item>
@@ -132,17 +125,27 @@ WeChat selbst, lässt sich von der chinesischen Regierung überwachen. Wie wicht
       
       <guid>https://moritz.sauer.io/schreibt/buchkritik-jessica-bruder-nomadland/</guid>
       <description>In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spuren der »neuen« Nomaden Amerikas. Es ist eine herzerschütternde Reise.
-Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag »Meet the CamperForce, Amazon&amp;rsquo;s Nomadic Retiree Army« auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht&amp;rsquo;s?
-Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Journalistin Jessica Bruder.</description>
+  Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag »Meet the CamperForce, Amazon&amp;rsquo;s Nomadic Retiree Army« auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht&amp;rsquo;s?
+Jessica Bruder   »Nomadland« basiert auf einer dreijährigen Recherche der Journalistin Jessica Bruder .</description>
     </item>
     
     <item>
-      <title>Alle sollen meine Musik hören</title>
+      <title>Digitaler Musikvertrieb: Alle sollen meine Musik hören</title>
       <link>https://moritz.sauer.io/schreibt/2018-11-23-digitaler-musikvertrieb/</link>
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/2018-11-23-digitaler-musikvertrieb/</guid>
-      <description>&lt;p&gt;Alle sollen meine Musik hören! In diesem Beitrag zum &lt;em&gt;Create Music Workshop&lt;/em&gt;, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes, Amazon &amp;amp; Co verbreitest.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Alle sollen meine Musik hören! In diesem Beitrag zum &lt;em&gt;Create Music Workshop&lt;/em&gt;, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes oder Amazon  verbreitest…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Influencer – So »authentisch«</title>
+      <link>https://moritz.sauer.io/schreibt/2018-11-19-influencer/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2018-11-19-influencer/</guid>
+      <description>Instagram ist das Massenmedium der Stunde. Und Influencer sind seine Stars. Es gibt sie in allen Geschmacksrichtungen: Nano-, Micro-, Small-, Medium-, Large-, Mega- oder Celebrity-Influencer. Und die Industrie füttert sie mit Geld. Schließlich öffnen Influencer die Türen zum Publikum.
+Das schaut gerne zu. Vor allem die jungen beeinflussbaren Menschen, denen per Feed – haha! Futter – beigebracht wird: Du bist, was Du konsumierst. Und Influencer, Deine »Freunde«, helfen Dir bei der Auswahl.</description>
     </item>
     
     <item>
@@ -151,7 +154,9 @@ Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Jour
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/2018-11-15-webdesign-mit-google-web.dev-optimieren/</guid>
-      <description>&lt;p&gt;Die Google-Plattform &lt;a href=&#34;https://web.dev/&#34;&gt;https://web.dev/&lt;/a&gt; unterstützt Dich als Entwickler von Websites. Neben Test-Werkzeugen, lernst Du moderne Webtechniken über zahlreiche Beiträge. Zum Beispiel, wie Du &lt;a href=&#34;https://web.dev/fast#topic-Optimize-your-images&#34;&gt;Bilder für schnellere Ladezeiten optimierst&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Die Google-Plattform &lt;a href=&#34;https://web.dev/&#34;&gt;https://web.dev/&lt;/a&gt; unterstützt Dich als Entwickler von Websites. Neben Test-Werkzeugen, lernst Du moderne Webtechniken über zahlreiche Beiträge. Zum Beispiel, wie Du 
+&lt;a href=&#34;https://web.dev/fast#topic-Optimize-your-images&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bilder für schnellere Ladezeiten optimierst&lt;/a&gt;
+.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -160,7 +165,9 @@ Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Jour
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schreibt/2018-06-25-google-fonts-datenschutzerklaerung/</guid>
-      <description>&lt;p&gt;Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: &lt;em&gt;Und, was ist mit den &lt;a href=&#34;https://fonts.google.com/&#34;&gt;Google Fonts&lt;/a&gt;?&lt;/em&gt; Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: &lt;em&gt;Und, was ist mit den 
+&lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fonts&lt;/a&gt;
+?&lt;/em&gt; Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -171,6 +178,119 @@ Jessica Bruder  »Nomadland« basiert auf einer dreijährigen Recherche der Jour
       <guid>https://moritz.sauer.io/schreibt/2018-06-22-shortcodes-fuer-wordpress-com-websites/</guid>
       <description>Mit Hilfe von Shortcodes lassen sich auch in Beiträgen dynamische Inhalte erstellen. Oder man nutzt eine der zahlreichen WordPress-Funktionen wie [audio], um ein MP3 in den Beitrag einzubauen.
 Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl den man in einen Artikel eingibt. Mit Shortcodes fügt man größere Schnipsel ein oder lässt über Shortcodes kleinere schnuckelige Funktionen ausführen – je nach Programmierung. So kann man z.B. mit Shortcodes Dateien einbauen oder Objekte kreieren, die man sonst im Theme realisieren müsste.</description>
+    </item>
+    
+    <item>
+      <title>Buchgliederung &amp; Buchgestaltung – Buchstruktur und Gliederung eines Buches</title>
+      <link>https://moritz.sauer.io/schreibt/2018-05-18-buchgliederung-buchgestaltung-buchstruktur/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2018-05-18-buchgliederung-buchgestaltung-buchstruktur/</guid>
+      <description>&lt;p&gt;Zu einem regulären Buch gehört nicht nur der eigentliche Inhalt (im Englischen body matter), sondern auch Seiten für Impressum , Rechte, Inhalsverzeichnis, Widmung, Index und so weiter… Dieser Artikel untersucht den Aufbau eines Buches.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fantasy Buch – Edgedancer von Brandon Sanderson</title>
+      <link>https://moritz.sauer.io/schreibt/edgedancer-brandon-sanderson/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/edgedancer-brandon-sanderson/</guid>
+      <description>&lt;picture&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.webp&#34;&gt;
+  &lt;source type=&#34;image/jpeg&#34; srcset=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34;&gt;
+  &lt;img src=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34; alt=&#34;Edgedancer (Sturmlicht-Chroniken)&#34; /&gt;
+&lt;/picture&gt;
+&lt;p&gt;Die Fantasy-Welt Roschar der Sturmlicht Chroniken von Brandon Sanderson gestaltet sich so komplex, dass die Nebenschauplätze genauso spannend sind, wie der Zyklus selbst. Darum widmet Brandon Sanderson mit »Edgedancer« – in einem für seine Verhältnisse kleinen Buch – seine Aufmerksamkeit der quirligen, faszinierenden und witzigen Lift.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google Fonts &amp; Microsoft-Schriften für Linux installieren</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</guid>
+      <description>&lt;p&gt;Die Installation von Schriften bei 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ ist wunderbar unkompliziert. Ein paar Befehle in das Terminal kopiert und schon stehen die Standardschriften von Microsoft und sämtliche Google Fonts zur Verfügung. Eine Kurzanleitung für die schnelle Installation von ca. 900 professionellen Schriften.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>»The Attention Merchants« von Tim Wu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-08-the-attention-merchants/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-08-the-attention-merchants/</guid>
+      <description>In seinem Buch »The Attention Merchants« untersucht Tim Woo, wie das Buhlen um unsere Aufmerksamkeit begann und welchen Siedepunkt es heute erreicht hat. Anhand einer präzisen Aufarbeitung der Geschichte der Werbung, des Marketings und seiner verschiedenen Taktiken nimmt Tim Woo uns Leser auf eine außergewöhnliche Reise mit, die kritisch die Durchdringung unseres Lebens durch Werbung und Beeinflussung der Gedanken durchleuchtet.
+Es gibt immer wieder Fachbücher , die mir die Augen öffnen und einen Aspekt des Lebens genauer beleuchten.</description>
+    </item>
+    
+    <item>
+      <title>Von Lubuntu nach Bodhi</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</guid>
+      <description>&lt;p&gt;Die Erleuchtung kam mit Bodhi Linux. Und mein Rechner reiste von Lubuntu nach Bodhi. Denn Bodhi sieht schicker aus, läuft noch schneller und bietet einige hilfreiche Werkzeuge, die die Arbeit mit dieser Version eines 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ Betriebssystem erleichtern. Ein Bericht.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Von Ubuntu nach Lubuntu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</guid>
+      <description>&lt;p&gt;Meine ersten Gehversuche mit Ubuntu waren leicht. Gestört hat mich dann bei meinen Experimenten das träge System. Das lag einerseits an meiner alten Maschine, andererseits aber auch an der aufgeblähten grafischen Oberfläche namens Unity. Ich habe dann nach einer Alternative gesucht und Lubuntu gefunden. Und &lt;em&gt;schwups&lt;/em&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Erfahrungsbericht Ubuntu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</guid>
+      <description>&lt;p&gt;Megakonzerne wie Apple sind mir unsympathisch und werden immer unsympathischer. Ich nutze seit Jahren mein erstes und solide arbeitendes Macbook Pro. Ich bin mit diesem Computer sehr zufrieden, bis auf die lächerlichen zwei USB-Schnittstellen. Aber während Apple sich weigert in Europa Steuern und hinterzogenes Geld zu bezahlen, Apple neuere Computer immer weniger für Professionelle produziert, die erst mit zig Kabeladaptern funktionieren, habe ich immer mehr das Gefühl, dass man den Konzern boykottieren sollte. Ist da 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ bzw. Ubuntu eine Alternative? Ein Erfahrungsbericht meiner ersten Schritte.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://moritz.sauer.io/schreibt/2017-01-06-brettspiel-go/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-01-06-brettspiel-go/</guid>
+      <description>Seit fast zwei Jahren spiele ich das wunderbare und älteste Brettspiel der Welt: Go. Was Schach für Europa und Amerika ist, dass ist Go für die asiatische Welt. Go ist ästhetisch, einfach zu lernen und schwer zu meistern. Die Tiefe und Komplexität ist unglaublich, die Philosophie hinter Go auch. Wer gerne seinen Kopf trainiert, der sollte alles stehen und liegen lassen und sich tiefergehend mit Go beschäftigen.
+Infiziert mit diesem wunderbaren Spiel hat mich FC Stoffel, nachdem ich seinen Blog-Beitrag über Go gelesen hatte.</description>
+    </item>
+    
+    <item>
+      <title>Typografie – Generalcheck der Typografie-Gesetze von Tschichold</title>
+      <link>https://moritz.sauer.io/schreibt/2015-01-18-buch-tschichold-na-und/</link>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2015-01-18-buch-tschichold-na-und/</guid>
+      <description>&lt;p&gt;Der Typograf Jan Tschichold gehört zu den wichtigsten Typografie-Experten des 20. Jahrhunderts. In »Tschichold – na und?« widmet sich Gerd Fleischmann den Ideen, Gesetzen und Vorgaben, die Jan Tschichold Zeit seines Lebens formuliert hat und unterzieht sie einem Generalcheck.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fakten zum Medium Buch – »Das Ende einer Last«</title>
+      <link>https://moritz.sauer.io/schreibt/2014-12-29-buch-das-ende-einer-last/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2014-12-29-buch-das-ende-einer-last/</guid>
+      <description>In »Das Ende einer Last« untersucht Karl Günter Bose das Buch. Auf 50 Seiten setzt sich der Professor für Typografie in Ruhe mit dem Medium auseinander.
+Die Reihe »Ästhetik des Buches« des Wallstein Verlages setzt sich mit den Themen Buch, Typografie und Geschichte der Schrift auseinander, den einzigartigen Qualitäten dieses Mediums. Besonders an diesen Büchern ist neben ihrem Inhalt alleine schon die Tatsache, dass – zumindest die Bücher, die ich gekauft habe – von den Autoren selbst typografisch und layout-technisch gestaltet wurden.</description>
+    </item>
+    
+    <item>
+      <title>HTML-Typographie – Alle HTML5-Elemente testen</title>
+      <link>https://moritz.sauer.io/schreibt/2008-06-03-html-typografie-test/</link>
+      <pubDate>Tue, 03 Jun 2008 13:30:02 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2008-06-03-html-typografie-test/</guid>
+      <description>Das ist der Anreisser mit &amp;lt;p&amp;gt; und der Klasse .teaser. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Inhaltsverzeichnis  HTML-Überschriften &amp;lt;a&amp;gt; – Links Listen &amp;lt;strong&amp;gt; – Starke Betonung &amp;lt;em&amp;gt; - Betonung &amp;lt;pre&amp;gt; Und so sehen Code-Beispiele aus &amp;lt;code&amp;gt; – Code per Inline-Element anzeigen. &amp;lt;blockquote&amp;gt; Zitat &amp;lt;cite&amp;gt; – Zitate als Inline-Elemente.</description>
     </item>
     
     <item>
@@ -189,7 +309,15 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
       
       <guid>https://moritz.sauer.io/biografie/</guid>
       <description>&lt;img style=&#34;transform: rotate(-1deg);&#34; src=&#34;https://moritz.sauer.io/img/moritz_mo._sauer_schwarz_weiss-1280x719.jpg&#34; alt=&#34;Moritz »mo.« Sauer&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Moritz »mo.« Sauer&lt;/strong&gt; ist &lt;a href=&#34;https://moritz.sauer.io/biografie/&#34;&gt;Journalist&lt;/a&gt;, &lt;a href=&#34;https://moritz.sauer.io/seminare/&#34;&gt;Dozent&lt;/a&gt;, &lt;a href=&#34;https://moritz.sauer.io/buecher/&#34;&gt;Buchautor&lt;/a&gt; und &lt;a href=&#34;https://moritz.sauer.io/webdesign/&#34;&gt;Webdesigner&lt;/a&gt;. Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Moritz »mo.« Sauer&lt;/strong&gt; ist 
+&lt;a href=&#34;https://moritz.sauer.io/biografie/&#34;&gt;Journalist&lt;/a&gt;
+, 
+&lt;a href=&#34;https://moritz.sauer.io/seminare/&#34;&gt;Dozent&lt;/a&gt;
+, 
+&lt;a href=&#34;https://moritz.sauer.io/buecher/&#34;&gt;Buchautor&lt;/a&gt;
+ und 
+&lt;a href=&#34;https://moritz.sauer.io/webdesign/&#34;&gt;Webdesigner&lt;/a&gt;
+. Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -217,7 +345,7 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/buecher/</guid>
-      <description>&lt;p&gt;Mittlerweile habe ich gemeinsam mit dem O&amp;rsquo;Reilly Verlag sieben Sachbücher herausgegeben. Mein &lt;em&gt;Bestseller&lt;/em&gt; »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mittlerweile habe ich gemeinsam mit dem O’Reilly Verlag sieben Sachbücher herausgegeben. Mein &lt;em&gt;Bestseller&lt;/em&gt; »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -246,7 +374,7 @@ Was ist ein Shortcode? Ein Shortcode ist ein WordPress-spezifischer Code/Befehl 
       <guid>https://moritz.sauer.io/seminare/</guid>
       <description>Wissensvermittlung ist meine Leidenschaft. Das Format spielt für mich erst einmal keine Rolle, auch nicht die Anzahl der Teilnehmer.
 Gerne unterrichte ich in kleinen Gruppen, weil dann jeder Fragen stellen kann. Gezielt helfe ich aber auch Einzelpersonen, um gemeinsam z.B. eine WordPress-Website fertig zu stellen. Ich habe auch schon vor mehr als 400 Leuten gesprochen: Alles eine Frage der Vorbereitung.
-Ob Sie eines meiner Bücher lesen, meine Videoanleitungen auf YouTube anschauen oder eines meiner zahlreichen gutbesuchten Seminare buchen.</description>
+Ob Sie eines meiner Bücher lesen , meine Videoanleitungen auf YouTube anschauen oder eines meiner zahlreichen gutbesuchten Seminare buchen.</description>
     </item>
     
     <item>

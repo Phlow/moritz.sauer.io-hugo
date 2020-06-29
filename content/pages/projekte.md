@@ -1,5 +1,4 @@
 ---
-layout              : email
 subtitle        : "Erfahrung sammeln"
 title           : Meine verschiedenen Projekte
 image:

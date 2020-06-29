@@ -2,9 +2,9 @@
 title: Shortcodes für WordPress.com Websites
 date: 2018-06-22T12:33:58+00:00
 author: Moritz »mo.« Sauer
-categories:
+kategorie:
   - Webdesign
-tags:
+schlagwort:
     - wordpress
     - shortcodes
 ---

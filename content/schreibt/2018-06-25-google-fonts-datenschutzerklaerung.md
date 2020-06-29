@@ -1,11 +1,10 @@
 ---
 date                : 2018-06-25
 title: Datenschutzerklärung – Google Fonts selbst einbauen
-categories:
+kategorie:
   - Webdesign
-tags:
+schlagwort:
     - datenschutz
-    - datenschutzerklärung
 ---
 Überall herrscht Verwirrung und in Gesprächen poppt auch immer öfter die Frage auf: _Und, was ist mit den [Google Fonts](https://fonts.google.com/)?_ Tja, wenn die Google Fonts von den Google Servern nachgeladen werden, dann muss auch auf Google Fonts in der Datenschutzerklärung hingewiesen werden.<!--more-->
 

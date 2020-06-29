@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</title>
+    <link>https://moritz.sauer.io/schlagwort/linux/</link>
+    <description>Recent content in linux on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Alle Rechte vorbehalten</copyright>
+    <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://moritz.sauer.io/schlagwort/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Fonts &amp; Microsoft-Schriften für Linux installieren</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</guid>
+      <description>&lt;p&gt;Die Installation von Schriften bei 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ ist wunderbar unkompliziert. Ein paar Befehle in das Terminal kopiert und schon stehen die Standardschriften von Microsoft und sämtliche Google Fonts zur Verfügung. Eine Kurzanleitung für die schnelle Installation von ca. 900 professionellen Schriften.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Von Lubuntu nach Bodhi</title>
+      <link>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-03-06-bodhi-linux/</guid>
+      <description>&lt;p&gt;Die Erleuchtung kam mit Bodhi Linux. Und mein Rechner reiste von Lubuntu nach Bodhi. Denn Bodhi sieht schicker aus, läuft noch schneller und bietet einige hilfreiche Werkzeuge, die die Arbeit mit dieser Version eines 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ Betriebssystem erleichtern. Ein Bericht.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Von Ubuntu nach Lubuntu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-02-28-lubuntu/</guid>
+      <description>&lt;p&gt;Meine ersten Gehversuche mit Ubuntu waren leicht. Gestört hat mich dann bei meinen Experimenten das träge System. Das lag einerseits an meiner alten Maschine, andererseits aber auch an der aufgeblähten grafischen Oberfläche namens Unity. Ich habe dann nach einer Alternative gesucht und Lubuntu gefunden. Und &lt;em&gt;schwups&lt;/em&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Erfahrungsbericht Ubuntu</title>
+      <link>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2017-02-27-ubuntu-start/</guid>
+      <description>&lt;p&gt;Megakonzerne wie Apple sind mir unsympathisch und werden immer unsympathischer. Ich nutze seit Jahren mein erstes und solide arbeitendes Macbook Pro. Ich bin mit diesem Computer sehr zufrieden, bis auf die lächerlichen zwei USB-Schnittstellen. Aber während Apple sich weigert in Europa Steuern und hinterzogenes Geld zu bezahlen, Apple neuere Computer immer weniger für Professionelle produziert, die erst mit zig Kabeladaptern funktionieren, habe ich immer mehr das Gefühl, dass man den Konzern boykottieren sollte. Ist da 
+&lt;a href=&#34;https://moritz.sauer.io/schlagwort/linux/&#34;&gt;Linux&lt;/a&gt;
+ bzw. Ubuntu eine Alternative? Ein Erfahrungsbericht meiner ersten Schritte.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

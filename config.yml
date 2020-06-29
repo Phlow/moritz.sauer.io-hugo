@@ -47,7 +47,7 @@ markup:
     tabWidth: 4
   tableOfContents:
     startLevel: 2
-    endLevel: 3
+    endLevel: 4
     ordered: true
 
 sitemap:
@@ -63,19 +63,19 @@ imaging:
   resampleFilter: box
 quality: 80             # Default JPEG quality setting. Default is 75.
 author:
-  name: Moritz mo. Sauer
-  publisher: Phlow
+  name      : Moritz mo. Sauer
+  publisher : Phlow
 permalinks:
-  pages: '/:filename/'
+  pages     : '/:filename/'
 taxonomies:
-  tag: tags
-  category: categories
+  tag       : schlagwort
+  category  : kategorie
 
 params:
-  slogan: 'Digitales Leben, Digitale Zeiten'
-  description: 'Moritz »mo.« Sauer arbeitet als Experte für Kunden und Institutionen in den Bereichen Journalismus, WordPress, Marketing, Social Media und Webdesign.'
-  adsensePublisher: ''
-  googleAnalytics: 
+  slogan           : 'Digitales Leben, Digitale Zeiten'
+  description      : 'Moritz »mo.« Sauer arbeitet als Experte für Kunden und Institutionen in den Bereichen Journalismus, WordPress, Marketing, Social Media und Webdesign.'
+  adsensePublisher : ''
+  googleAnalytics  :
   # Wichtig für SCHEMA.ORG
   publisher:
     name: Phlow

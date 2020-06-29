@@ -1,6 +1,5 @@
 ---
 date                : 2018-11-15
-subtitle            : Webdesign
 title               : Website-Optimierung mit Google Web.dev
 image:
     title           : /images/blog/webdesign-google-web-dev-optimieren.png

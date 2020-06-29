@@ -10,7 +10,7 @@ show_footer         : false
 show_nachoben       : false
 show_meta           : false
 ---
-_Hallo! Ich bin [Moritz »mo.« Sauer][]. **Mein Produkt ist [Bildung][]**. Seit 2000 baue ich [Websites][], arbeite als [Journalist][] und [Buchautor][] und vermittele mein Wissen in [Seminaren und Webinaren][]. Ich helfe Menschen sich im Web und Social Media zu präsentieren und strategisch zu vermarkten. Ich [schreibe][] gerne und produziere [Musik][]. Wenn Sie mich brauchen, [fragen Sie mich][]!_
+_Hallo! Ich bin [Moritz »mo.« Sauer][]. Mein Produkt ist [Bildung][]. Seit 2000 baue ich [Websites][], arbeite als [Journalist][] und [Buchautor][] und vermittele mein Wissen in [Seminaren und Webinaren][]. Ich helfe Menschen sich im Web und Social Media zu präsentieren und strategisch zu vermarkten. Ich [schreibe][] gerne und produziere [Musik][]. Wenn Sie mich brauchen, [fragen Sie mich][]!_
 
 [Moritz »mo.« Sauer]: {{< ref "pages/biografie.md" >}}
 [Journalist]: {{< ref "pages/biografie#journalismus.md" >}}

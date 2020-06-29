@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</title>
+    <link>https://moritz.sauer.io/schlagwort/hugo/</link>
+    <description>Recent content in hugo on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Alle Rechte vorbehalten</copyright>
+    <lastBuildDate>Thu, 18 Jun 2020 15:25:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://moritz.sauer.io/schlagwort/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo: Markdown Render Hooks &#43; webp = Noch schnellere Websites</title>
+      <link>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</link>
+      <pubDate>Thu, 18 Jun 2020 15:25:03 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</guid>
+      <description>Mit Hugo Markdown Render Hooks generiert man aus einfachem Markdown inviduelles HTML. Das ermöglicht den Einsatz von webp-Bildern plus &amp;lt;picture&amp;gt;.
+Meine Websites Phlow.de und moritz.sauer.io baue ich mit Hugo . Die Beiträge verfasse ich in Markdown und seit Längerem wollte ich die Website beschleunigen, indem ich webp-Bilder nutze. Und dafür gibt es jetzt eine einfache Lösung.
+Inhaltsverzeichnis
+ webp-Bilder aus JPG und PNG-Bildern generieren Vergleich komprimierter Bilder mit jpg, guetzli-jpg und webp  Original JPG-Bild JPG mit guetzli Qualität 85 optimiert Bild mit webp und Qualität 80 optimiert   Hugo Markdown Render Hooks übernehmen die Arbeit substr ersetzt die jpg-Endung mit wepb    Das webp-Format verkleinert Bilder in der Dateigröße besser als JPG.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Website Generator – Hilfreiche Code-Snippets</title>
+      <link>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</link>
+      <pubDate>Fri, 01 May 2020 14:39:29 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</guid>
+      <description>Hugo ist ein Static Website Generator , der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io . An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.
+Inhaltsverzeichnis
+ Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes Hugo Standard-Variablen  Eigene Variablen erstellen Globale Variablen erstellen   if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann… Wenn Schlagwort, dann bitte nur das erste ausgeben   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zoom on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</title>
+    <link>https://moritz.sauer.io/schlagwort/zoom/</link>
+    <description>Recent content in zoom on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Alle Rechte vorbehalten</copyright>
+    <lastBuildDate>Fri, 17 Apr 2020 10:58:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://moritz.sauer.io/schlagwort/zoom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zoom-Meeting schützen – Einstellungen für die Privatssphäre</title>
+      <link>https://moritz.sauer.io/schreibt/2020-04-17-zoom-datenschutz-einstellungen/</link>
+      <pubDate>Fri, 17 Apr 2020 10:58:34 +0200</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/2020-04-17-zoom-datenschutz-einstellungen/</guid>
+      <description>&lt;img src=&#34;https://moritz.sauer.io/img/schreibt/zoom-meeting-schutz-schuetzen-1000x700.jpg&#34; alt=&#34;Nomadland Cover&#34;&gt;
+&lt;p&gt;Damit Dein Zoom-Meeting geschützt ist und nicht unnötig Daten gespeichert werden, gibt es zahlreiche Einstellungen. Und so findest Du sie.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,12 @@
 ---
 title               : "Spiel doch mal Clash Royale!"
 date                : 2020-06-01T22:31:55+02:00
-tags                :
+schlagwort         :
     - spiel
 ---
-<img src="/img/schreibt/clash-royale-3.jpg" alt="">
+{{< img src="/img/schreibt/clash-royale-3.jpg" alt="Clash Royale" >}}
 
-Wieviel Werbeblöcke ich auf YouTube & Co. ignoriert oder weggeklickt habe, weiß ich nicht mehr. Aber Clash Royale war oft dabei und ich habe mir immer gedacht: So ein Nonsense. Bestimmt so ein Klickerspiel wie Plants vs. Zombies oder Candy Crush. Bis [FC Stoffel](https://www.horstseinefreunde.de/allgemein/daddelnd-durch-die-kontaktsperre/) mich auf die Idee gebracht hat, dass [Spiel]({{< ref "/tags/spiel" >}}) mal auszuprobieren…
+Wieviel Werbeblöcke ich auf YouTube & Co. ignoriert oder weggeklickt habe, weiß ich nicht mehr. Aber Clash Royale war oft dabei und ich habe mir immer gedacht: So ein Nonsense. Bestimmt so ein Klickerspiel wie Plants vs. Zombies oder Candy Crush. Bis [FC Stoffel](https://www.horstseinefreunde.de/allgemein/daddelnd-durch-die-kontaktsperre/) mich auf die Idee gebracht hat, dass [Spiel]({{< ref "/schlagwort/spiel" >}}) mal auszuprobieren…
 
 Ich komme also zehn Jahre später zur Party. Aber ich muss schon sagen, dass Clash Royale ein exzellent gemachtes [casual game](https://de.wikipedia.org/wiki/Casual_Game) mit absolutem Suchtfaktor ist. Clash Royale ist pfiffig konstruiert: Du verstehst es schnell und legst los ohne nachzudenken.
 
@@ -24,7 +24,7 @@ Warum das eigentlich stumpfe Spiel so ein Spaß macht, liegt außerdem an der Sp
 
 So ist mein aktuelle Lieblingfigur, der blaue _Bowler_, z.B. sehr gemütlich unterwegs. Auch wehrt er sich nicht gegen Angreifer aus der Luft. Dafür rollt er jedoch gerne seine mächtige Bowlingkugel gleich über mehrere Gegenspieler. Gleichzeit schiebt die Kugel die die Überlebenden ein wenig zurück und wir rollen gleich die nächste hinterher. Bei Bowler frage ich mich nur, woher er die ganzen Kugeln nimmt…
 
-<img src="/img/schreibt/clash-royale-2.jpg" alt="">
+{{< img src="/img/schreibt/clash-royale-2.jpg" alt="Clash Royale Kartenset" >}}
 
 Und diese zahlreichen Variationen erhalten den Spielspaß: herauszufinden, wer was gut kann und dem Gegner im Echtzeitspiel dann die meisten Punkte raubt. Denn das ist das Feine: Wir spielen gegen andere Menschen und nicht gegen den Computer. So hat man immer das Gefühl, dass es vielleicht einen taktisch schlechteren Gegner gibt, wenn man gerade mal wieder in den Boden gestampft wurde.
 

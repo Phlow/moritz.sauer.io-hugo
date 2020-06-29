@@ -4,7 +4,7 @@ title               : 'Kasper Skårhøj – Was Open Source und Christentum geme
 meta_description    : 'Ist Open Source der Quell aller Weisheit? Sind Projekte wie Linux, Apache oder auch das Redaktionssystem Typo3 ein Schritt in Richtung Wissens-oder Web-Demokratie? Bekommen die Pro'
 date                : 2003-04-29
 category            : interview
-tags                :
+schlagwort         :
     - interview
     - typo3
 ---

@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jun 2020 14:39:29 +0200</pubDate>
       
       <guid>https://moritz.sauer.io/info/</guid>
-      <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung. Für die Kommunikation dient die Kontaktseite.</description>
+      <description>Für diese Website ist laut Impressum Moritz »mo.« Sauer verantwortlich. Dort findest Du auch die Datenschutzerklärung . Für die Kommunikation dient die Kontaktseite .</description>
     </item>
     
     <item>
@@ -28,7 +28,15 @@
       
       <guid>https://moritz.sauer.io/biografie/</guid>
       <description>&lt;img style=&#34;transform: rotate(-1deg);&#34; src=&#34;https://moritz.sauer.io/img/moritz_mo._sauer_schwarz_weiss-1280x719.jpg&#34; alt=&#34;Moritz »mo.« Sauer&#34;&gt;
-&lt;p&gt;&lt;strong&gt;Moritz »mo.« Sauer&lt;/strong&gt; ist &lt;a href=&#34;https://moritz.sauer.io/biografie/&#34;&gt;Journalist&lt;/a&gt;, &lt;a href=&#34;https://moritz.sauer.io/seminare/&#34;&gt;Dozent&lt;/a&gt;, &lt;a href=&#34;https://moritz.sauer.io/buecher/&#34;&gt;Buchautor&lt;/a&gt; und &lt;a href=&#34;https://moritz.sauer.io/webdesign/&#34;&gt;Webdesigner&lt;/a&gt;. Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Moritz »mo.« Sauer&lt;/strong&gt; ist 
+&lt;a href=&#34;https://moritz.sauer.io/biografie/&#34;&gt;Journalist&lt;/a&gt;
+, 
+&lt;a href=&#34;https://moritz.sauer.io/seminare/&#34;&gt;Dozent&lt;/a&gt;
+, 
+&lt;a href=&#34;https://moritz.sauer.io/buecher/&#34;&gt;Buchautor&lt;/a&gt;
+ und 
+&lt;a href=&#34;https://moritz.sauer.io/webdesign/&#34;&gt;Webdesigner&lt;/a&gt;
+. Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -56,7 +64,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/buecher/</guid>
-      <description>&lt;p&gt;Mittlerweile habe ich gemeinsam mit dem O&amp;rsquo;Reilly Verlag sieben Sachbücher herausgegeben. Mein &lt;em&gt;Bestseller&lt;/em&gt; »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mittlerweile habe ich gemeinsam mit dem O’Reilly Verlag sieben Sachbücher herausgegeben. Mein &lt;em&gt;Bestseller&lt;/em&gt; »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -85,7 +93,7 @@
       <guid>https://moritz.sauer.io/seminare/</guid>
       <description>Wissensvermittlung ist meine Leidenschaft. Das Format spielt für mich erst einmal keine Rolle, auch nicht die Anzahl der Teilnehmer.
 Gerne unterrichte ich in kleinen Gruppen, weil dann jeder Fragen stellen kann. Gezielt helfe ich aber auch Einzelpersonen, um gemeinsam z.B. eine WordPress-Website fertig zu stellen. Ich habe auch schon vor mehr als 400 Leuten gesprochen: Alles eine Frage der Vorbereitung.
-Ob Sie eines meiner Bücher lesen, meine Videoanleitungen auf YouTube anschauen oder eines meiner zahlreichen gutbesuchten Seminare buchen.</description>
+Ob Sie eines meiner Bücher lesen , meine Videoanleitungen auf YouTube anschauen oder eines meiner zahlreichen gutbesuchten Seminare buchen.</description>
     </item>
     
     <item>

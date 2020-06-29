@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fantasy on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</title>
+    <link>https://moritz.sauer.io/schlagwort/fantasy/</link>
+    <description>Recent content in fantasy on Moritz »mo.« Sauer – Dozent, Webdesigner und Autor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Alle Rechte vorbehalten</copyright>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://moritz.sauer.io/schlagwort/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fantasy Buch – Edgedancer von Brandon Sanderson</title>
+      <link>https://moritz.sauer.io/schreibt/edgedancer-brandon-sanderson/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schreibt/edgedancer-brandon-sanderson/</guid>
+      <description>&lt;picture&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.webp&#34;&gt;
+  &lt;source type=&#34;image/jpeg&#34; srcset=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34;&gt;
+  &lt;img src=&#34;https://moritz.sauer.io/img/schreibt/edgedancer-sturmlicht-chroniken.jpg&#34; alt=&#34;Edgedancer (Sturmlicht-Chroniken)&#34; /&gt;
+&lt;/picture&gt;
+&lt;p&gt;Die Fantasy-Welt Roschar der Sturmlicht Chroniken von Brandon Sanderson gestaltet sich so komplex, dass die Nebenschauplätze genauso spannend sind, wie der Zyklus selbst. Darum widmet Brandon Sanderson mit »Edgedancer« – in einem für seine Verhältnisse kleinen Buch – seine Aufmerksamkeit der quirligen, faszinierenden und witzigen Lift.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
