@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Tue, 23 Jun 2020 21:36:52 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://moritz.sauer.io/schlagwort/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>marketing</title>
+      <link>https://moritz.sauer.io/schlagwort/marketing/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schlagwort/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musik</title>
+      <link>https://moritz.sauer.io/schlagwort/musik/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schlagwort/musik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://moritz.sauer.io/schlagwort/workshop/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moritz.sauer.io/schlagwort/workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>spiele</title>
@@ -135,33 +162,6 @@
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://moritz.sauer.io/schlagwort/vanlife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>https://moritz.sauer.io/schlagwort/marketing/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://moritz.sauer.io/schlagwort/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>musik</title>
-      <link>https://moritz.sauer.io/schlagwort/musik/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://moritz.sauer.io/schlagwort/musik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://moritz.sauer.io/schlagwort/workshop/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://moritz.sauer.io/schlagwort/workshop/</guid>
       <description></description>
     </item>
     

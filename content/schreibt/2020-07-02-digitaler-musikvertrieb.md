@@ -1,19 +1,21 @@
 ---
-date                : 2018-11-23
+date                : 2020-07-02
 title               : 'Digitaler Musikvertrieb: Alle sollen meine Musik hören'
-schlagwort         :
+schlagwort:
   - musik
   - marketing
   - workshop
+image:
+  title             :   /img/schreibt/digitale-musikdistribution.jpg
+  title_width       : 1920
+  title_height      : 823
 ---
 Alle sollen meine Musik hören! In diesem Beitrag zum *Create Music Workshop*, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes oder Amazon  verbreitest…
 <!--more-->
 
 {{< toc >}}
 
-<img src="/img/schreibt/workshop-digitale-musikdistribution.jpg" alt="">
-
-Deine Musikaufnahmen liegen fertig auf der Festplatte und was jetzt? Heute vertreibst Du Deine Musik weltweit mit einer jährlichen Investition von 30€. Denn mit Distrokid schiebst Du Deine Musik weltweit in die Streaming-Services wie Spotify, Apple Music oder verkaufst Deinen Sound bei iTunes, Amazon, Google Music und so weiter…
+Deine Musikaufnahmen liegen fertig auf der Festplatte und was jetzt? Musik vertreibst Du heute weltweit mit einer jährlichen Investition von 30 €. Denn mit Distrokid schiebst Du Deine Musik weltweit in die Streaming-Services wie Spotify, Apple Music oder verkaufst Deinen Sound bei iTunes, Amazon, Google Music und so weiter…
 
 Trotzdem empfehle ich Dir zusätzlich auch noch ein eigenes Profil mit Bandcamp. Denn mit Bandcamp schraubst Du Dir eine einfache aber wirkungsvolle Website zusammen, die Dir auch beim Vertrieb von Merchandise und analogen Tonträgern hilft.
 
@@ -22,11 +24,74 @@ Was Du alles für eine digitale Distributionskampagne in Eigenregie beachten mus
 Für mehr Erfolg, lohnt es sich vorher die Hausaufgaben zu machen.
 
 <figure>
-<img src="/img/schreibt/2018-03-21-distrokid-1.png" width="777" height="619" alt="Distrokid ">
+<img src="/img/schreibt/digitale-musikdistribution-2018-03-21-distrokid-1.png" width="777" height="619" alt="Distrokid ">
     <figcaption>Geschäftsmodell und Preise von distrokid</figcaption>
 </figure>
 
 ## Musik mit Strategie verbreiten
+
+### Du brauchst eine Geschichte
+
+**Die gute Nachricht:** Wir leben in einem Zeitalter der Singles, und es gibt tonnenweise Möglichkeiten, einen Song zuveröffentlichen.
+
+**Die schlechte Nachricht:** Jeder andere Künstler hat auch eine neue Single zu promoten. Man kann also nicht einfach einen Song in die Welt setzen und erwarten, dass er die Leute ohne Mühe und Vorausplanung erreicht.
+
+Darum benötigst Du eine Geschichte, die Du Deinen Songs transportiert und die gut auf sozialen Kanälen funktioniert und aufbereitet werden kann. Ein gutes Beispiel ist z.B. der Song [»Wer Sagt Denn Das?« von Deichkind](https://www.youtube.com/watch?v=w7KA2LSvsfM). Video, Nachricht, Optik, alles schreit nach einer guten Vermarktung und zieht den Zuhörer in die »Debatte«.
+
+Finde den besten Moment in Deinem Song und frag Dich:
+
+* Wie kann dieser Moment die Zuhörer dazu inspirieren, eigene Videos zu drehen (z.B. TikTok-Herausforderungen, Tanzwettbewerbe, Untertitelwettbewerbe, Duette, Antwortvideos und anderes hashtag-getriebenes Engagement in der Gemeinde)?
+* Kann ich zu diesen 15 Sekunden Musik ein kurzes Originalvideo drehen?
+* Kann ich zu diesen 15 Sekunden Musik gutes lizenzfreies Material oder Material aus der Public Domain finden, das ich zu diesen 15 Sekunden Musik hinzufügen kann?
+* Kann ich zu diesen 15 Sekunden zahlreiche *verschiedene* Video-Inhalte posten, um den Hook zu verstärken?
+* Was bringt die Leute bei Instagram Stories dazu, Fragen zu beantworten oder an einer Umfrage teilzunehmen?
+
+### Mach' Deine Song Playlisten-freundlich
+
+Wenn Du die Wahrscheinlichkeit erhöhen willst, dass Deine Singles in die Playlists kommen, solltest Du Dir über diese Musiktrends im Klaren sein:
+
+Keine langen Intros und Outros.
+:    Wir Menschen sind ungeduldig und überspringen Lieder sehr leicht und schnell.
+
+Überleg Dir, ob Du die Hook direkt am Anfang bringst.
+:    Du kannst mit der Hook oder dem Refrain beginnen. Die Beatles haben es vor einem halben Jahrhundert bereits gemacht, und Bruno Mars tut es heute.
+
+Halten Sie Ihre Songs unter 4 Minuten.
+:    Wenn Du nicht gerade Ambient, Klassik, Jazz oder ähnliche Musik produzierst, dann halte Deine Songs zwischen 2-4 Minuten lang. Unter 3 Minuten wäre das Ziel für eine maximale Playlist-Fähigkeit.
+
+Achte auf Schimpfwörter.
+:    Explizite Sprache ist nicht unbedingt dem Untergang Ihres Songs geweiht, aber sie kann sicherlich die Art der Wiedergabelisten einschränken, auf denen Sie erscheinen könnten.
+
+### Veröffentlichungen: Frequenz
+
+Die Art, wie viele Musiker heute Ihre Musik veröffentlichen unterscheidet sich stark von der z.B. um die Jahrtausendwende. Heute lohnt es sich eher kontinuierlich zu veröffentlichen anstelle einmal ein großes Album »rauszuhauen«.
+
+Deine Musik hat dann mehr Neuwert im Sinne der Berichterstattung, Du hast öfters Gründe Dich bei Deinen Fans zu melden und kannst aus einzelnen Songs/Produktionen Geschichten entwickeln.
+
+Also, beachte…
+
+* höhere Frequenz durch kleinere Veröffentlichungen
+* Remixe und Kooperationen anstreben
+* Ziel: mehr kontinuierliche Aufmerksamkeit
+* mehr Geld durch mehrere kleinere Beiträge
+
+### Gründe, um Fans zu kontaktieren
+
+* Email-Benachrichtigungen
+    * neues Release
+    * Release-Pakete zusammenbauen
+    * Sonderaktionen (z.B. Rabattaktionen)
+* Postings
+    * Instagram
+    * Facebook
+    * YouTube
+    * …
+
+### Diskussion: Preisgestaltung bei Veröffentlichungen
+
+* Welche Preise zahlst Du für Musik?
+* Welche Art von Releases kaufst Du?
+    * Digital, Vinyl, Tape
 
 ### Warum Distrokid?!?
 
@@ -38,37 +103,20 @@ Für den digitalen Musikvertrieb [empfehle ich Distrokid (Promolink)](https://di
 * …bietet Zugang zu Spotify-Artist.
 * …unterstützt Dich mit zahlreichen Werkzeugen.
 
-Natürlich ist der Hauptgrund der unfassbar faire Preis. Andere Services verlangen pro EP, Single oder Album-Upload einen Betrag. Bei Distrokid spielt das keine Rolle und Du lädst gezielt Deine Musik hoch, fertig.
+Natürlich ist der Hauptgrund der unfassbar faire Preis.
+
+Andere Services verlangen pro EP, Single oder Album-Upload einen Betrag. Bei Distrokid spielt das keine Rolle und Du lädst gezielt Deine Musik hoch, fertig.
 
 <figure>
-    <img src="/img/schreibt/2018-03-21-distrokid-2.png" width="626" height="301" alt="Distrokid ">
+    <img src="/img/schreibt/digitale-musikdistribution-2018-03-21-distrokid-2.png" width="626" height="301" alt="Distrokid ">
     <figcaption>Auswahl der Shops für Deine Musik</figcaption>
 </figure>
 
-### Veröffentlichungen: Frequenz
+**Wichtiger Hinweis:** Leider bekleckert sich Spotify aktuell nicht mit Ruhm und behält 30% Deiner Einnahmen zurück – angeblich aus Steuergründen in den USA.
 
-* höhere Frequenz durch kleinere Veröffentlichungen
-* Remixe und Kooperationen anstreben
-* Ziel: mehr kontinuierliche Aufmerksamkeit
-* mehr Geld durch mehrere kleinere Beiträge
+Dass, das nicht korrekt ist, erklärt der Musiker Dan Vasc genauer. Auch, wie Distrokid zuerst und später mit ihm umgegangen ist. Sehr fraglich.
 
-### Gründe, um Fans zu kontaktieren
-
-* Email-Benachrichtigungen
-	* neues Release
-	* Release-Pakete zusammenbauen
-	* Sonderaktionen (z.B. Rabattaktionen)
-* Postings
-	* Instagram
-	* Facebook
-	* YouTube
-	* …
-
-### Diskussion: Preisgestaltung bei Veröffentlichungen
-
-* Welche Preise zahlst Du für Musik?
-* Welche Art von Releases kaufst Du?
-	* Digital, Vinyl, Tape
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZ9P80XPIWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Die wichtigsten Services – Da sollte Deine Musik sein
 
@@ -126,7 +174,13 @@ Label // Daptone Records
 : <https://daptonerecords.bandcamp.com>
 : <http://daptonerecords.com>
 
-## Marketing: Links zur Musik mit Logos 
+## Marketing: Playlists, Links und Logos
+
+##  Auf diese Playlist kommst Du auf jeden Fall
+
+Die Playlist auf die Du bei Spotify garantiert kommst, ist die Playlist _Release Radar_. Zuerst musst die Musik bei Spotify sein, logisch. Dann sollte die Musik mindestens sieben Geschäftstage vor der Veröffentlichung bei Spotify vorliegen. Denn dann kannst Du über _Spotify for Artists_ unter Upcoming einen Song oder das gesamte Release vorschlagen.
+
+Selbst wenn Dein Song nicht in einer kuratierten Playlist landet, so landet der Song aber auf jeden Fall im _Release Radar_. Diese Playlists erzeugt der Spotify-Algorithmus und bei sämtlichen Deiner Spotify-Follower landest Du dann automatisch im Release Radar.
 
 ### Erstelle Links und speichere sie sortiert ab
 

@@ -47,17 +47,6 @@ Inhaltsverzeichnis
     </item>
     
     <item>
-      <title>.htaccess – Verschiedene Snippets</title>
-      <link>https://moritz.sauer.io/schreibt/2019-06-05-htaccess/</link>
-      <pubDate>Wed, 05 Jun 2019 13:30:02 +0200</pubDate>
-      
-      <guid>https://moritz.sauer.io/schreibt/2019-06-05-htaccess/</guid>
-      <description>Mit der .htaccess-Datei steuerst Du das Verhalten des Servers, der Deine Webseiten ausliefert. Dazu gehören passwortgeschützte Websites, direkte Umleitungen von URLs oder auch die Kompression der Auslieferung via gzip.
-Inhaltsverzeichnis
- https forcieren gzip-Komprimierung aktivieren    Warnung: Sollten die folgenden Code-Schnippsel nicht funktionieren, hat das sicherlich etwas mit den Server-Einstellungen Deines Anbieters zu tun. Die Code-Schnippsel funktionieren bei meinem Anbieter HostEurope. Wenn etwas nicht funktioniert, bitte nicht mich kontaktieren, sondern den Support Deines Anbieters.</description>
-    </item>
-    
-    <item>
       <title>HTML-Typographie – Alle HTML5-Elemente testen</title>
       <link>https://moritz.sauer.io/schreibt/2008-06-03-html-typografie-test/</link>
       <pubDate>Tue, 03 Jun 2008 13:30:02 +0200</pubDate>

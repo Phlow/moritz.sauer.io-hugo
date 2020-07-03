@@ -2,24 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://moritz.sauer.io/schreibt/</loc>
-    <lastmod>2020-06-23T21:36:52+02:00</lastmod>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moritz.sauer.io/schreibt/2020-06-23-ipad-spiele/</loc>
-    <lastmod>2020-06-23T21:36:52+02:00</lastmod>
+    <loc>https://moritz.sauer.io/schreibt/2020-07-02-digitaler-musikvertrieb/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://moritz.sauer.io/</loc>
-    <lastmod>2020-06-23T21:36:52+02:00</lastmod>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://moritz.sauer.io/schlagwort/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://moritz.sauer.io/schreibt/2020-06-23-ipad-spiele/</loc>
     <lastmod>2020-06-23T21:36:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -79,20 +85,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moritz.sauer.io/schreibt/2019-06-05-htaccess/</loc>
-    <lastmod>2019-06-05T13:30:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://moritz.sauer.io/schreibt/buchkritik-jessica-bruder-nomadland/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://moritz.sauer.io/schreibt/2018-11-23-digitaler-musikvertrieb/</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

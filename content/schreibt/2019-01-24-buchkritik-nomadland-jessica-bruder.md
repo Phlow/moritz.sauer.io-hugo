@@ -7,10 +7,10 @@ schlagwort         :
     - vandwelling
     - buchkritik
     - vanlife
-image:
-    title: images/blog/nomadland.jpg
-    title_width: 473
-    title_height: 509
+# image:
+#     title: /img/schreibt/nomadland.jpg
+#     title_width: 473
+#     title_height: 509
 ---
 In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spuren der »neuen« Nomaden Amerikas. Es ist eine herzerschütternde Reise.
 
@@ -19,7 +19,7 @@ In »Nomadland« steigen wir mit Jessica Bruder in einen Van und folgen den Spur
 Aufmerksam bin ich auf »Nomadland« über den langen und lesenswerten Beitrag [»Meet the CamperForce, Amazon's Nomadic Retiree Army«](https://www.wired.com/story/meet-camperforce-amazons-nomadic-retiree-army/) auf Wired.com geworden. Anschließend habe ich das Buch gekauft und es hat sich vollkommen gelohnt. Aber worum geht's?
 
 <figure class="pullleft">
-<img src="/img/schreibt/jessica-bruder.jpg" alt="">
+<img src="/img/schreibt/jessica-bruder.jpg" alt="" width="473" height="509">
 <figcaption>Jessica Bruder</figcaption>
 </figure>
 
