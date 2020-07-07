@@ -21,9 +21,12 @@ download:
       url_download  : img/moritz-mo.-sauer_3.jpg
       icon          : image
 permalink           : /biografie/
+image:
+  title             : /img/moritz_mo._sauer_schwarz_weiss-1280x719.jpg
+  title_width       : 2000
+  title_height      : 1125
+  style             : 'transform: rotate(-1.7deg);'
 ---
-<img style="transform: rotate(-1deg);" src="/img/moritz_mo._sauer_schwarz_weiss-1280x719.jpg" alt="Moritz »mo.« Sauer">
-
 **Moritz »mo.« Sauer** ist [Journalist](/biografie/), [Dozent](/seminare/), [Buchautor](/buecher/) und [Webdesigner](/webdesign/). Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.
 <!--more-->
 

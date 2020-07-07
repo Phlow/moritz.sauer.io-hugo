@@ -9,6 +9,7 @@ image:
   title             :   /img/schreibt/digitale-musikdistribution.jpg
   title_width       : 1920
   title_height      : 823
+url                 : /schreibt/digitaler-musikvertrieb/
 ---
 Alle sollen meine Musik hören! In diesem Beitrag zum *Create Music Workshop*, erfährst Du, wie Du weltweit Deine Musik auf Spotify, iTunes oder Amazon  verbreitest…
 <!--more-->

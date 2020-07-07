@@ -3,13 +3,12 @@ title               : "»Bildung ist mein Produkt!«"
 meta_title          : "»Bildung ist mein Produkt!« Seminare, Workshops und Vorträge von Moritz »mo.« Sauer"
 meta_description    : "Ob Sie meine Bücher lesen, meine Videoanleitungen anschauen oder meine Seminare buchen. Mein Ziel ist immer, Ihnen das Thema verständlich zu erklären."
 image:
-  title:   /images/header_moritz_mo._sauer_seminar.jpg
-  title_width     : 1600
-  title_height    : 686
-slug              : /seminare/
+  title             : /img/seminare.jpg
+  title_width       : 2000
+  title_height      : 1125
+  style             : 'transform: rotate(-1.5deg);'
+slug                : /seminare/
 ---
-<img style="transform: rotate(-1deg);" src="/img/seminare.jpg" alt="Moritz »mo.« Sauer">
-
 Wissensvermittlung ist meine _Leidenschaft_. Das Format spielt für mich erst einmal keine Rolle, auch nicht die Anzahl der Teilnehmer.
 
 Gerne unterrichte ich in kleinen Gruppen, weil dann jeder Fragen stellen kann. Gezielt helfe ich aber auch Einzelpersonen, um gemeinsam z.B. eine WordPress-Website fertig zu stellen. Ich habe auch schon vor mehr als 400 Leuten gesprochen: Alles eine Frage der Vorbereitung.
