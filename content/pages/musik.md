@@ -6,10 +6,9 @@ image:
   title             : /img/header-musik-2.jpg
   title_width       : 1600
   title_height      : 686
+  style             : "transform: rotate(-1.6deg);"
 permalink           : /musik/
 ---
-<img style="transform: rotate(-1deg);"  src="/img/header-musik-2.jpg" alt="">
-
 Musik spielt eine große Rolle in meinem Leben. Ob zu Hause, auf der Tanzfläche oder unterwegs per Kopfhörer, ich höre viel. Hauptsächlich liebe ich elektronische Musik, genieße aber auch Ausflüge in andere Gefilde wie Jazz, Reggae, Funk und manchmal sogar Folk… 
 <!--more-->
 

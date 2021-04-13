@@ -2,7 +2,7 @@
 title               : "Lieblingsspiele – Richtig gute iPad Spiele"
 date                : 2020-06-23T21:36:52+02:00
 schlagwort          :
-    - spiele
+    - spiel
 ---
 Seit Jahren spiele ich mit meinen Kindern oder alleine auf dem iPad Spiele. Wenige Spiele begeisterten uns über die Jahre. Aber die folgenden sind unsere absoluten Favoriten.
 

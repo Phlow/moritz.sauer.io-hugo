@@ -1,6 +1,6 @@
 ---
 subtitle            : 'Brettspiel'
-title               : 'Go'
+title               : 'Go – Das wunderbare Brettspiel'
 date                : 2017-01-06
 image:
    title            : /img/schreibt/go-brettspiel.jpg

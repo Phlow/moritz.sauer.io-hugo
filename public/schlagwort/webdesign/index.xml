@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Thu, 18 Jun 2020 15:25:03 +0200</lastBuildDate>
-    
-	<atom:link href="https://moritz.sauer.io/schlagwort/webdesign/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 18 Jun 2020 15:25:03 +0200</lastBuildDate><atom:link href="https://moritz.sauer.io/schlagwort/webdesign/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo: Markdown Render Hooks &#43; webp = Noch schnellere Websites</title>
       <link>https://moritz.sauer.io/schreibt/2020-06-18-hugo-webp-picture/</link>
@@ -43,7 +39,7 @@ Im unteren Beispiel baut das Raster drei Spalten auf.</description>
       <guid>https://moritz.sauer.io/schreibt/2020-06-01-hugo-website-generator/</guid>
       <description>Hugo ist ein Static Website Generator , der zahlreiche meiner Websites baut – unter anderem Phlow.de und Moritz.Sauer.io . An dieser Stelle sammele ich zahlreiche Bausteine für die Web-Entwicklung.
 Inhaltsverzeichnis
- Die wichtigsten Kommandos für das Terminal Struktur eines Hugo-Projektes Hugo Standard-Variablen  Eigene Variablen erstellen Globale Variablen erstellen   if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann… Wenn Schlagwort, dann bitte nur das erste ausgeben   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
+ Die wichtigsten Kommandos für das Terminal  Hugo Befehle Hugo aktualisieren, upgraden, updaten…   Struktur eines Hugo-Projektes Hugo Standard-Variablen  Eigene Variablen erstellen Globale Variablen erstellen   if-Abfragen mit Hugo  Wenn in .Section, dann… Wenn Parameter 1 oder 2 vorhanden ist, dann… Wenn Wert nicht existiert, dann… Wenn in Kategorie X, dann… Wenn Schlagwort, dann bitte nur das erste ausgeben   Range – Schleifen mit Hugo  Eine Section mit Index-Seite ausgeben Eine Section ohne Index-Seite ausgeben Ausgabe steuern nach Schlagworten Range und Data Sortieren mit sort Umgekehrte Sortierung mit reverse Paginator – Weiterblättern alle X Seiten Zeige eine Liste an Tags an Führe eine Schleife X-Mal aus first – Zeige die letzten drei Beiträge Zeige Beiträge zu einem bestimmten Tag after – Zeige Beiträge erst nach den ersten X (offset) Nach Parameter (hier: Kategorien) gruppieren Sortieren mit range nach Metadaten  ByWeight ByTitle ByLength ByDate ByPublishedDate ByExirationDate ByLastmod ByTitle ByLinkTitle ByParam     Hugo Shortcodes    Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nicht ganz leicht.</description>
     </item>
     
     <item>

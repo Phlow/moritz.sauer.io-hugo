@@ -1,0 +1,25 @@
+#
+# menu_title › Shows the title
+# title      › this is for title- and alt- attribute
+# url_link   › actual link
+# separator  › If you want a separator put it in here like |
+# class      › If you need an extra class to style it
+#
+
+- menu_title    : 'Info'
+  title         : 'Mehr Informationen zu dieser Website'
+  url_link      : 'info/'
+  separator     : ' – '
+  class         : ''
+
+- menu_title    : 'Kontakt'
+  title         : 'Kontaktier mich'
+  url_link      : 'kontakt/'
+  separator     : ' – '
+  class         : ''
+
+- menu_title    : 'Impressum & Datenschutz'
+  title         : 'Impressum'
+  url_link      : 'https://phlow.de/impressum/'
+  separator     : ''
+  class         : ''

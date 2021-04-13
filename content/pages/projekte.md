@@ -1,11 +1,11 @@
 ---
-subtitle        : "Erfahrung sammeln"
-title           : Meine verschiedenen Projekte
+subtitle            : "Erfahrung sammeln"
+title               : Meine verschiedenen Projekte
 image:
   title: /img/header_projekte.jpg
-  title_width     : 1600
-  title_height    : 686
-permalink: /projekte/
+  title_width       : 1600
+  title_height      : 686
+permalink           : /projekte/
 ---
 Projekte starte ich, um Ideen zu testen und um Erfahrungen für meine Seminare zu sammeln. Außerdem pflege ich meine große Leidenschaft: Publizieren im Internet. Dafür teste ich (neue) soziale Medien, Apps und Online-Services. Sie profitieren von diesen reichhaltigen Erfahrungen aus der Praxis in meinen Büchern, Seminaren und Workshops.
 <!--more-->

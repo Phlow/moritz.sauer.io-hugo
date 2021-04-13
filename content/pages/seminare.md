@@ -6,7 +6,7 @@ image:
   title             : /img/seminare.jpg
   title_width       : 2000
   title_height      : 1125
-  style             : 'transform: rotate(-1.5deg);'
+  style             : 'transform: rotate(-1.5deg);margin: 2rem 0;'
 slug                : /seminare/
 ---
 Wissensvermittlung ist meine _Leidenschaft_. Das Format spielt für mich erst einmal keine Rolle, auch nicht die Anzahl der Teilnehmer.

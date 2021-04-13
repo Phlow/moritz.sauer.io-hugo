@@ -72,7 +72,11 @@ taxonomies:
   category  : kategorie
 
 params:
-  slogan           : 'Digitales Leben, Digitale Zeiten'
+  BlogTitle        : "Sign o' the Times"
+  Slogan           : 'Digitale Kultur / Digitales Leben'
+  BlogLogo         : '/assets/img/logo.png'
+  BlogLogoWidth    : 894
+  BlogLogoHeight   : 119
   description      : 'Moritz »mo.« Sauer arbeitet als Experte für Kunden und Institutionen in den Bereichen Journalismus, WordPress, Marketing, Social Media und Webdesign.'
   adsensePublisher : ''
   googleAnalytics  :

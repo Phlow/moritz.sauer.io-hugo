@@ -11,7 +11,7 @@ show_nachoben       : false
 show_meta           : false
 permalink: /kontakt/
 ---
-Es gibt zahlreiche Wege mich zu kontaktieren. Öffne und <a href="https://phlowmedia.wufoo.com/embed/z7x3k1/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=480,height=600'); return false;">schreibe in das Kontaktformular</a>, kontaktiere mich über [Twitter](https://twitter.com/phlow) oder piep mich auf Instagram an. Am Schnellsten geht es immer noch über das gute alte Telefon <a href="tel:+491737323995" target="_blank">Anrufen +49 173 73 23 995</a> :)
+Es gibt zahlreiche Wege mich zu kontaktieren. <a href="https://phlowmedia.wufoo.com/embed/z7x3k1/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=480,height=600'); return false;">Öffne und schreibe in das Kontaktformular</a> oder ruf einfach über das gute alte Telefon unter <a href="tel:+491737323995" target="_blank">+49 173 73 23 995</a> an :)
 
 
 

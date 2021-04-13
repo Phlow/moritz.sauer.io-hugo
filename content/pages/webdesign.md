@@ -2,9 +2,12 @@
 meta_title          : 'Webdesign – Meine Websites sind schnell, responsive, strukturiert & elegant'
 title               : '»Meine Websites sind schnell, responsive, strukturiert & elegant«'
 permalink           : /webdesign/
+image:
+  title             : /img/scr_webdesign-1.jpg
+  title_width       : 942
+  title_height      : 594
+  style             : 'transform: rotate(-1.4deg);margin: 2rem 0;'
 ---
-<img style="transform: rotate(-1deg);" src="/img/scr_webdesign-1.jpg" alt="">
-
 Seit 2000 baue ich Websites. Über die Jahre habe ich mein Wissen kontinuierlich verfeinert und baue schnelle, professionelle Websites.
 
 Wie die meisten Webdesigner nutze ich zahlreiche verschiedene Werkzeuge wie z.B. WordPress, Jekyll, Hugo, Sass, Foundation, Bootstrap, Guetzli… Über WordPress habe ich bereits 2005 in [meinem ersten Buch]({{< ref "buecher#wordpress-buch" >}}) geschrieben…

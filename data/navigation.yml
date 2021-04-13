@@ -1,0 +1,25 @@
+#
+# menu_title › Shows the title
+# title      › this is for title- and alt- attribute
+# url_link   › actual link
+# separator  › If you want a separator put it in here like |
+# class      › If you need an extra class to style it
+#
+
+- menu_title    : 'Moritz »mo.« Sauer'
+  title         : 'Erfahre mehr über mich, Moritz »mo.« Sauer'
+  url_link      : ''
+  separator     : ''
+  class         : ''
+
+- menu_title    : 'unterrichtet'
+  title         : 'Besuch die Startseite für eine Übersicht aller Beiträge'
+  url_link      : 'seminare/'
+  separator     : ' und'
+  class         : ''
+
+- menu_title    : 'schreibt'
+  title         : 'Hier findest Du Beiträge von mir'
+  url_link      : 'schreibt/'
+  separator     : '.'
+  class         : ''

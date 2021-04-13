@@ -7,6 +7,7 @@ image:
   title:   /img/cover-das-wordpress-5-buch-2398x1795-org.jpg
   title_width     : 2398
   title_height    : 1795
+  style             : 'transform: rotate(-1.3deg);margin: 2rem 0;'
 ---
 Mittlerweile habe ich gemeinsam mit dem O’Reilly Verlag sieben Sachbücher herausgegeben. Mein <em>Bestseller</em> »Das WordPress-Buch« – erscheint mittlerweile in der vierten Auflage.
 <!--more-->

@@ -2,7 +2,7 @@
 date                : 2018-11-19
 subtitle            : Social Media
 title               : Influencer – So »authentisch«
-tags:
+schlagwort:
   - social media
   - instagram
   - gesellschaft

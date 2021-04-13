@@ -1,5 +1,5 @@
 ---
-date                : 2020-07-02
+date                : 2020-09-04
 title               : 'Digitaler Musikvertrieb: Alle sollen meine Musik hören'
 schlagwort:
   - musik
@@ -135,13 +135,28 @@ Die wichtigsten – weil meistgenutzten Services – sind meiner Meinung nach d
 
 Wer Techno und House produziert, wird von Distrokid aber nicht auf Beatport geschoben.
 
-### Künstler bei Spotify
+### Das Künstlerprofil von Spotify verwalten
 
 Unter [artists.spotify.com](https://artists.spotify.com/) erfährst Du alles über die Möglichkeiten, die Dir Spotify als Künstler bietet sowie den [Hilfestellungen zu den Funktionen](https://artists.spotify.com/guide/spotify-for-artists). So kannst Du z.B. eigene Musik-Playlisten erstellen. Mehr erfährst Du unter [Hinzufügen von Wiedergabelisten zu Ihrem Künstlerprofil (englisch).](https://artists.spotify.com/faq/profile#how-do-i-post-an-artist-playlist-to-my-profile)
+
+![App Spotify for Artists](/img/schreibt/spotify-for-artists.jpg)
+
+Hilfreich für Dein Spotify-Profil ist die dazugehörige App Spotify for Artists. Über diese verwaltest Du Dein Profil, lädst Profilbilder hoch und erhältst Statistiken zu Deinen »Plays«.
+
+* [iOS – Spotify for Artists](https://apps.apple.com/us/app/spotify-for-artists/id1222021797)
+* [Android – Spotify for Artists ](https://play.google.com/store/apps/details?id=com.spotify.s4a&hl=en_US)
 
 ### Hol das maximale aus Spotify-Biografie heraus
  
 Du hast 1.500 Zeichen, um Deinen Fans auf Spotify mitzuteilen, wer Du bist. In Deiner Spotify-Biografie kannst Du @tags verwenden, um Links auf andere Spotify-Inhalte wie Alben, Künstler oder Wiedergabelisten zu setzen. Spotify-Links kannst Du auch in das Textfeld einfügen und einen Link zu deiner Wikipedia-Seite hinzufügen, für Fans, die tiefer graben wollen.
+
+### Spotify Bilder – Maße und Anforderungen
+
+* Image Gallery – Images must be at least 690px x 500px
+* Avatar images must be at least 300x300px.
+* Header images must be at least 2660x1140px.
+* Avoid text, logos, and busy backgrounds.
+* File format: jpeg, gif, or png.
 
 ### Bandcamp – Eigenvertrieb, Microsite und Musikstreaming
 
@@ -226,3 +241,22 @@ Distrokid
 : Entwicklungen und Tipps im Blog unter [news.distrokid.com](https://news.distrokid.com)
 : Tutorial Videos auf [www.instagram.com/distrokid/](https://www.instagram.com/distrokid/)
 : Und noch mehr Infos auf Twitter unter [@distrokid](https://twitter.com/distrokid)
+
+## Bilder für Künstlerprofile Anforderungen und Bildmaße‚
+
+### Google Play Artist Hub
+
+#### Interpretenbild
+
+- Erforderliche Mindestgröße: 2.160 x 1.080 Pixel
+- Das Seitenverhältnis muss 2:1 sein (Querformat).
+- Das Bildformat muss JPEG, GIF, BMP oder PNG sein.
+- Du musst alle Rechte an dem Bild besitzen.
+
+### Spotify Bilder
+
+* Image Gallery – Images must be at least 690px x 500px
+* Avatar images must be at least 300x300px.
+* Header images must be at least 2660x1140px.
+* Avoid text, logos, and busy backgrounds.
+* File format: jpeg, gif, or png.

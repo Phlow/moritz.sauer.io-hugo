@@ -13,6 +13,8 @@ Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nich
 
 ## Die wichtigsten Kommandos für das Terminal
 
+### Hugo Befehle
+
 `hugo new site ORDNERNAME`
 : Legt ein neues Hugo-Projekt an
 
@@ -33,6 +35,21 @@ Die Verwendung der Template-Sprache Go und auch die Hugo-Programmierung ist nich
 
 In der Dokumentation findest Du die Übersicht 
 [Aller Befehle der Hugo CLI](https://gohugo.io/getting-started/usage/).
+
+### Hugo aktualisieren, upgraden, updaten…
+
+Um Hugo mit [homebrew](https://phlow.de/magazin/terminal/homebrew/) zu aktualisieren, gibst Du folgendes ein. Dabei aktualisierst Du zuerst homebrew mit
+
+~~~
+brew update
+~~~
+
+Und nimmst anschließend das Upgrade für Hugo vor.
+
+~~~
+brew upgrade hugo
+~~~
+
 
 ## Struktur eines Hugo-Projektes
 

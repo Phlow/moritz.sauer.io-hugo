@@ -25,9 +25,9 @@ image:
   title             : /img/moritz_mo._sauer_schwarz_weiss-1280x719.jpg
   title_width       : 2000
   title_height      : 1125
-  style             : 'transform: rotate(-1.7deg);'
+  style             : 'transform: rotate(-1.7deg);margin: 2rem 0;'
 ---
-**Moritz »mo.« Sauer** ist [Journalist](/biografie/), [Dozent](/seminare/), [Buchautor](/buecher/) und [Webdesigner](/webdesign/). Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur.
+**Moritz »mo.« Sauer** ist Journalist, [Dozent](/seminare/), [Buchautor](/buecher/) und [Webdesigner](/webdesign/). Als agiler Spezialist beschäftigt sich der Kölner hauptsächlich mit den Themen Internet, Kommunikation, Journalismus, WordPress, Webdesign, Marketing, Musik und Netzkultur. 2020 hat er gemeinsam mit Markus Erdmann das Bildungsinstitut [andersneu](https://andersneu.de/) gegründet.
 <!--more-->
 
 {{< toc >}}

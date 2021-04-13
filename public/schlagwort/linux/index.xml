@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Alle Rechte vorbehalten</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://moritz.sauer.io/schlagwort/linux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://moritz.sauer.io/schlagwort/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Fonts &amp; Microsoft-Schriften für Linux installieren</title>
       <link>https://moritz.sauer.io/schreibt/2017-03-10-linux-schriften-installieren-microsoft-google-fonts/</link>
