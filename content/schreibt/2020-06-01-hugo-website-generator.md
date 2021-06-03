@@ -110,8 +110,6 @@ in your theme file.
 {{ .Site.Params.myvariable }}
 {{ .Site.Params.general.mysubvariable }}
 
-
-
 ## if-Abfragen mit Hugo
 
 Bei meiner [Webdesign]({{< ref "/schlagwort/webdesign" >}})-Arbeit mit dem [Website Generator Hugo]({{< ref "/schlagwort/hugo" >}}) stolpere ich immer wieder über die Konstruktion von _if_- oder _where_-Abfragen. Hier zahlreiche funktionierende Beispiele…
@@ -194,31 +192,31 @@ Mit `range` baut man klassische For-Schleifen. `range` bietet zahlreiche Möglic
 ### Sortieren mit `sort`
 
 ~~~
-  {{ range sort .Pages "File.TranslationBaseName" }}
+{{ range sort .Pages "File.TranslationBaseName" }}
     {{ .Title }}
-  {{ end }}
+{{ end }}
 ~~~
 
 ### Umgekehrte Sortierung mit `reverse`
 
 ~~~
-    {{ range .Pages.ByTitle.Reverse }}
-    {{ end }}
+{{ range .Pages.ByTitle.Reverse }}
+{{ end }}
 ~~~
 
 ### Paginator – Weiterblättern alle X Seiten
 
 ~~~
-    {{ range (.Paginator 5).Pages }}
-    {{ end }}
+{{ range (.Paginator 5).Pages }}
+{{ end }}
 ~~~
 
 ### Zeige eine Liste an Tags an
 
 ~~~
-    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-      <a href="/schlagwort/{{ $name | urlize }}">{{ $name }}</a>
-    {{ end }}
+{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+  <a href="/schlagwort/{{ $name | urlize }}">{{ $name }}</a>
+{{ end }}
 ~~~
 
 ### Führe eine Schleife X-Mal aus
@@ -233,12 +231,12 @@ Du kannst `seq` mit `range`und `after` kombinieren, um eine bestimmte Anzahl von
 ### `first` – Zeige die letzten drei Beiträge
 
 ~~~
-    {{ range first 3 .Site.Pages }}
-      <div>
-        <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
-        <time class="timeago" datetime='{{ .Date.Format "2006-01-02T15:04:05-07:00" }}'>{{ .Date }}</time>
-      </div>
-    {{ end }}
+{{ range first 3 .Site.Pages }}
+  <div>
+    <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+    <time class="timeago" datetime='{{ .Date.Format "2006-01-02T15:04:05-07:00" }}'>{{ .Date }}</time>
+  </div>
+{{ end }}
 ~~~
 
 ### Zeige Beiträge zu einem bestimmten Tag
@@ -246,48 +244,46 @@ Du kannst `seq` mit `range`und `after` kombinieren, um eine bestimmte Anzahl von
 So zeigen Sie eine Liste der Beiträge für ein bestimmtes Tag an. In diesem Fall habe ich ein Tag mit dem Namen »featured«.
 
 ~~~
-    {{ range .Site.Taxonomies.tags.featured }}
-        <h5><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h5>
-        <time class="timeago" datetime='{{ .Page.Date.Format "2006-01-02T15:04:05-07:00" }}'>{{ .Page.Date }}</time>
-    {{ end }}
+{{ range .Site.Taxonomies.tags.featured }}
+    <h5><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h5>
+    <time class="timeago" datetime='{{ .Page.Date.Format "2006-01-02T15:04:05-07:00" }}'>{{ .Page.Date }}</time>
+{{ end }}
 ~~~
 
 ### `after` – Zeige Beiträge erst nach den ersten X (offset)
 
-You can combine first and after to make a more complicated query. I am showing 3 featured posts after skipping the first one. I am also showing a featured_image that was in the content markdown in the front matter. This is the top area with the title and other parameters in your markdown post.
-
 Sie können _first_ und _after_ kombinieren, um eine kompliziertere Abfrage zu erstellen. Das folgende Beispiel zeigt 3 vorgestellte Beiträge an, nachdem der Erste übersprungen wurde. Außerdem soll ein _featured_image_, das im Content-Markdown in der Titelzeile stand angezeigt werden.
 
 ~~~
-    {{ range after 1 (first 3 .Site.Taxonomies.tags.featured) }}
-      <div>
-        {{ with .Page.Params.featured_image }}<img src="{{ . }}">{{ end }}
-        <h5><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h5>
-      </div>
-    {{ end }}
+{{ range after 1 (first 3 .Site.Taxonomies.tags.featured) }}
+  <div>
+    {{ with .Page.Params.featured_image }}<img src="{{ . }}">{{ end }}
+    <h5><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h5>
+  </div>
+{{ end }}
 ~~~
 
-Wenn Sie sich innerhalb einer Schleife befinden, müssen Sie $ am Anfang von .params hinzufügen, um auf den Wert zuzugreifen. Siehe dazu › http://stackoverflow.com/questions/16734503/access-out-of-loop-value-inside-golang-templates-loop
+Wenn Sie sich innerhalb einer Schleife befinden, müssen Sie $ am Anfang von .params hinzufügen, um auf den Wert zuzugreifen. [Siehe dazu ›](http://stackoverflow.com/questions/16734503/access-out-of-loop-value-inside-golang-templates-loop)
 
 ~~~
-    {{ with .Params.some_variable }}{{ with $.Params.some_other_variable }}{{ . }}{{ end }}{{ . }}{{ end }}
+{{ with .Params.some_variable }}{{ with $.Params.some_other_variable }}{{ . }}{{ end }}{{ . }}{{ end }}
 ~~~
 
 ### Nach Parameter (hier: Kategorien) gruppieren
 
 ~~~
-    {{ range .Pages.GroupByParam "chapter" }}
-    <ul class="toc-list">
-        {{ $counter := 0 }}
-        {{ range sort .Pages "File.TranslationBaseName" }}
-          {{ if eq $counter 0 }}<h2>{{ .Params.Categories }}</h2>{{ end }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-          {{ $counter = add $counter 1 }}
-        {{ end }}
-    </ul>
+{{ range .Pages.GroupByParam "chapter" }}
+<ul class="toc-list">
+    {{ $counter := 0 }}
+    {{ range sort .Pages "File.TranslationBaseName" }}
+      {{ if eq $counter 0 }}<h2>{{ .Params.Categories }}</h2>{{ end }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ $counter = add $counter 1 }}
     {{ end }}
+</ul>
+{{ end }}
 ~~~
 
 ### Sortieren mit `range` nach Metadaten
@@ -295,78 +291,78 @@ Wenn Sie sich innerhalb einer Schleife befinden, müssen Sie $ am Anfang von .pa
 #### ByWeight
 
 ~~~
-    {{ range .Pages.ByWeight }}
-    {{ end }}
+{{ range .Pages.ByWeight }}
+{{ end }}
 ~~~
 
 #### ByTitle
 
 ~~~
-    {{ range .Pages.ByTitle }}
-    {{ end }}
+{{ range .Pages.ByTitle }}
+{{ end }}
 ~~~
 
 #### ByLength
 
 ~~~
-    {{ range .Pages.ByLength }}
-    {{ end }}
+{{ range .Pages.ByLength }}
+{{ end }}
 ~~~
 
 #### ByDate
 
 ~~~
-    {{ range .Pages.ByDate }}
-    {{ end }}
+{{ range .Pages.ByDate }}
+{{ end }}
 ~~~
 
 #### ByPublishedDate
 
 ~~~
-    {{ range .Pages.ByPublishedDate }}
-    {{ end }}
+{{ range .Pages.ByPublishedDate }}
+{{ end }}
 ~~~
 
 #### ByExirationDate
 
 ~~~
-    {{ range .Pages.ByExirationDate }}
-    {{ end }}
+{{ range .Pages.ByExirationDate }}
+{{ end }}
 ~~~
 
 #### ByLastmod
 
 ~~~
-    {{ range .Pages.ByLastmod }}
-    {{ end }}
+{{ range .Pages.ByLastmod }}
+{{ end }}
 ~~~
 
 #### ByTitle
 
 ~~~
-    {{ range .Pages.ByTitle }}
-    {{ end }}
+{{  range .Pages.ByTitle }}
+{{ end }}
 ~~~
 
 #### ByLinkTitle
 
 ~~~
-    {{ range .Pages.ByLinkTitle }}
-    {{ end }}
+{{ range .Pages.ByLinkTitle }}
+{{ end }}
 ~~~
 
 #### ByParam
 
 ~~~
-    {{ range (.Pages.ByParam "parametername") }}
-    {{ end }}
+{{ range (.Pages.ByParam "parametername") }}
+{{ end }}
 ~~~
 
 Verschachtele Parameter
 
 ~~~
-    {{ range (.Pages.ByParam "author.last_name") }}
-    {{ end }}
+{{ range (.Pages.ByParam "author.last_name") }}
+{{ end }}
 ~~~
 
 ## Hugo Shortcodes
@@ -375,9 +371,9 @@ Damit Markdown in Shortcodes nach HTML konvertiert wird, muss der Shortcode `%` 
 
 **HINWEIS: Da diese Website mit Hugo gebaut wird, musste ich das folgende Beispiel anpassen. Am Anfang steht ein `{{` und _Leerzeichen_ und dann erst das `%`. Das Leerzeichen muss gelöscht werden!**
 ~~~
-    {{ % mein_shortcode %}}
-    **Fett** oder _kursiv_, so wie Du es magst.
-    {{ % /mein_shortcode %}}
+{{ % mein_shortcode %}}
+**Fett** oder _kursiv_, so wie Du es magst.
+{{ % /mein_shortcode %}}
 ~~~
 
 ~~~
